@@ -61,5 +61,5 @@ opponent. Your function must return a vector, `V`, of `10` numbers. Each
 ## Relevant materials
 
 See [task file](./task.pdf) for more details. Or see the [YouTube
-video](https://www.youtube.com/watch?v=xwd9cV77xzw) for my comments on how
+video](https://www.youtube.com/watch?v=jCt0Kc687jA) for my comments on how
 the tournament software was implemented.
